@@ -1,0 +1,15 @@
+{
+    "prettier.tabWidth": 2,
+    "prettier.singleQuote": true,
+    "prettier.trailingComma": "all",
+    "prettier.semi": true,
+    "prettier.jsxSingleQuote": true,
+    "prettier.printWidth": 100,
+
+    "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+
+    "editor.cursorStyle": "line",
+    "editor.cursorBlinking": "phase",
+    "editor.cursorSmoothCaretAnimation": "on"
+}

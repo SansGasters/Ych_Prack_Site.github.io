@@ -1,0 +1,58 @@
+[
+    {
+      "id": 0,
+      "imageUrl": "https://media.dodostatic.net/image/r:584x584/11ee7d612fc7b7fca5be822752bee1e5.avif",
+      "title": "Пепперони Фреш с перцем",
+      "types": [0, 1, 2],
+      "price": 450
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://media.dodostatic.net/image/r:233x233/11ee7d610d2925109ab2e1c92cc5383c.avif",
+      "title": "Сырная",
+      "types": [0, 1],
+      "price": 350
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://media.dodostatic.net/image/r:233x233/11ee7d6110059795842d40396bcf1e73.avif",
+      "title": "Цыпленок барбекю",
+      "types": [0, 2],
+      "price": 500
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://media.dodostatic.net/image/r:233x233/11ee7d6149eb101d8727573088fa2eff.avif",
+      "title": "Диабло",
+      "types": [1, 2],
+      "price": 250
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://media.dodostatic.net/image/r:233x233/11ee7d61698827ee9b8db6d0aec53410.avif",
+      "title": "Бургер-пицца",
+      "types": [0, 1, 2],
+      "price": 500
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://media.dodostatic.net/image/r:233x233/11ee7d610e8bbb248f31270be742b4bd.avif",
+      "title": "Сырный цыпленок",
+      "types": [0, 1, 2],
+      "price": 500
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://media.dodostatic.net/image/r:233x233/11eef9e43dc39c94aa5765dbf1c97100.avif",
+      "title": "Бефстроганов",
+      "types": [0, 1, 2],
+      "price": 675
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://media.dodostatic.net/image/r:233x233/11ee7d6105ef6690b86fbde6150b5b0c.avif",
+      "title": "Маргарита",
+      "types": [0, 1],
+      "price": 350
+    }
+]
